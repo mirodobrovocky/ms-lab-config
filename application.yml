@@ -1,0 +1,5 @@
+profiles:
+    active: @spring.profiles.active@
+  cloud:
+    consul:
+      enabled: false
